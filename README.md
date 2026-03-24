@@ -1,1 +1,3 @@
+Repositório dos Exercícios + Trabalho de Programação Orientada a Objetos
 Nathan Arruola da Costa - 690
+*Caso use a IA no trabalho deixar claro em cada prompt, usos e desusos, o que aproveitou, deixar tudo claro e transparente(Pedir Documentação)...
